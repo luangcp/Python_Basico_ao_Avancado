@@ -60,3 +60,30 @@ from random import randint
 
 for i in range(6):
     print(randint(1, 90), end=', ')  # end= ', ' foi usado para colocar td na mesma linha
+
+print('\n')
+
+# Função choice() -> Mostra um valor aleatorio entre um iteravel
+
+# importando
+from random import choice
+
+jogadas = ['pedra', 'papel', 'tesoura']
+print(choice(jogadas))
+
+# Se eu fizer assim ele escolhe uma letra por vez:
+print(choice('ABCDEFGHIJKLMNOPQRSTUVWXYZ'))
+
+print('\n')
+
+# Função shuffle() -> Tem a funçãode embaralhar dados
+# Importando
+from random import shuffle
+
+cartas = ['K', 'Q', 'J', 'A', '2', '3', '4', '5', '6', '7', '8', '9', '10']
+print(cartas)
+shuffle(cartas)  # Embaralhou
+print(cartas)
+
+# Caso queira embaralhar e dar uma carta ao usuario
+print(cartas[0])
