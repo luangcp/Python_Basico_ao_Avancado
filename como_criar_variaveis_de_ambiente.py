@@ -34,4 +34,6 @@ Segundo:
   - fecha e abre o cmd dnv
   - mkvirtualenv nome_da_variavel_de_amiente
   - PRONTO
+
+OBS: Para entrar na variavel de ambiente pelo cmd usar workon nome_da_variavel
 """

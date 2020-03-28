@@ -3,6 +3,7 @@ Função soma impares utilizada para ser importada em Dunder Main e Dunder name
 
 
 """
+# -*- coding: UTF-8 -*-
 
 
 def soma_impares(numeros):

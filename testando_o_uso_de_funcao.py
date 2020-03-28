@@ -3,6 +3,7 @@ Testando o uso de função
 
 Montando uma calculadora com funções
 """
+# -*- coding: UTF-8 -*-
 # Funções:
 
 

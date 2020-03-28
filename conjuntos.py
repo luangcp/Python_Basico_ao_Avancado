@@ -21,6 +21,7 @@ Diferença entre conjuntos (sets) e Mapas (dicionarios)
     -um conjunto tem apenas valor
 
 """
+# -*- coding: UTF-8 -*-
 
 # Definindo um conjuntos
 

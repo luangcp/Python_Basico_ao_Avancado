@@ -7,6 +7,7 @@ Como modulos python nada mais são do que arquivos python, então todos os arqui
 criados são modulos Python prontos para serem utilizados
 
 """
+# -*- coding: UTF-8 -*-
 # Importando uma função especifica do modulo
 from funcoes_com_parametro import soma_impares
 

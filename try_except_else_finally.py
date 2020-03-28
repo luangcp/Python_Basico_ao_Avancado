@@ -15,7 +15,7 @@ Finally -> o bloco finally é sempre executado, Independente se houve exceção 
 O finally geralmente é utilizando, para fechar ou desalocar recursos.
 
 """
-
+# -*- coding: UTF-8 -*-
 # Exemplo de utilidade try e except
 try:
     num = int(input('Informe um número: '))

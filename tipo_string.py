@@ -9,7 +9,7 @@ Em python um dado é considerado do tipo string sempre que:
 
 
 """
-
+# -*- coding: UTF-8 -*-
 nome = 'Luan Pinheiro'
 print(nome)
 print(type(nome))

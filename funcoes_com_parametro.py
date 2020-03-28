@@ -14,6 +14,7 @@ Se pensarmos em uma função, já sabemos que temos funções que:
 - Possuem entrada e saída
 
 """
+# -*- coding: UTF-8 -*-
 # Refaturando uma função
 
 

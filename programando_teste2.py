@@ -1,6 +1,8 @@
 """
 Fazer um programa de cadastro de rede social
 """
+# -*- coding: UTF-8 -*-
+
 print('-------Bem-Vindo a nova Rede Social Do GALO GalON-------')
 print('ESCOLHA O QUE DESEJA FAZER: \n')
 print('1 - Para entrar na sua conta digite ')

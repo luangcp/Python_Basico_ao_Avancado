@@ -1,3 +1,5 @@
+# -*- coding: UTF-8 -*-
+
 
 def funcao1():
     print('Luan Pinheiro . primeiro.py')

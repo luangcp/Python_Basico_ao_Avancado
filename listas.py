@@ -19,7 +19,7 @@ Já em PYTHON:
 As listas em python são representadas por colchetes: []
 
 """
-
+# -*- coding: UTF-8 -*-
 type([])  # Representa uma lista
 
 lista1 = [1, 99, 33, 2, 5, 66, 12, 34, 56, 77, 81]

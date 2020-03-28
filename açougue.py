@@ -4,6 +4,7 @@ Data: 21/01/2020
 Programa referente a brincadeira feita no grupo sobre criar um açougue online
 
 """
+# -*- coding: UTF-8 -*-
 produto = ''
 compras = []
 picanha = 30

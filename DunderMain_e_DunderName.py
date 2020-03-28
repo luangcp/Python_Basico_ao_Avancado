@@ -30,6 +30,7 @@ public static void main(String[] args) {
 Main -> Significa principal
 
 """
+# -*- coding: UTF-8 -*-
 from funcao_soma_impares import soma_impares
 
 print(soma_impares([1, 2, 3, 4, 5, 6, 7]))

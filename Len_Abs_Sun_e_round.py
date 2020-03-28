@@ -20,6 +20,7 @@ round() - retorna um numero arredondado para n digito de precisão após a casa
 decimal. Se a precisão não for informada retorna o inteiro mais proximo da entrada
 
 """
+# -*- coding: UTF-8 -*-
 # So pra revisar
 
 # Função LEN

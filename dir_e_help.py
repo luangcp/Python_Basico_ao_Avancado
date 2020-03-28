@@ -10,5 +10,5 @@ para determinado tipo de dado ou variavel
 
 help(tipo de dado/variavel.propriedade)
 """
-
+# -*- coding: UTF-8 -*-
 print(dir("luan"))

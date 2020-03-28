@@ -10,6 +10,7 @@ Counter -> recebe um iteravel como parametro e cria um objeto do tipo Collection
 que é parecido com um dicionario, contendo como chave o elemento da lista passada como
 parametro e como valor a quantidade de ocorrencias desse elemento
 """
+# -*- coding: UTF-8 -*-
 # Utilizando o Counter
 # Primeiro tem que importar o counter (importando uma biblioteca)
 

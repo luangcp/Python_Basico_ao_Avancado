@@ -1,3 +1,5 @@
+# -*- coding: UTF-8 -*-
+
 from random import random  # Importando do pacote random a função random
 
 

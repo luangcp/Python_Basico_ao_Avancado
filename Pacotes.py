@@ -22,6 +22,7 @@ novo pacote chamado (pacote_dentro_do_pacote) que tbm tinha um __init__ dentro
 e foram criados mais dois python files (luan3 e luan4)
 
 """
+# -*- coding: UTF-8 -*-
 from Luan import luan1, luan2  # Importando o pacote Luan
 
 from Luan.pacote_dentro_do_pacote import luan3, luan4  # Importando o pacote dentro do pacote Luan

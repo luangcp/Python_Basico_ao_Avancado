@@ -18,6 +18,7 @@ Exemplos de iteraveis:
 - Range
     numeros = range(1, 10)
 """
+# -*- coding: UTF-8 -*-
 nome = 'Luan'
 lista = [1, 3, 4, 6, 9]
 numeros = range(1, 10)  # Temos que transformar em uma lista

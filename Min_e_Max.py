@@ -5,6 +5,7 @@ max() -> Retorna o maior valor de um iteravel ou o maior de dois ou mais element
 
 min() -> Retorna o menor valor em um iteravel ou o menor de dois ou mais elementos
 """
+# -*- coding: UTF-8 -*-
 # Exemplos Max
 
 tupla = 1, 2, 3, 4, 5, 99, 188, 2, -4, 44, 54, 542, 12

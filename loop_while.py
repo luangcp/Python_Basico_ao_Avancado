@@ -15,6 +15,7 @@ num = 5
 num<5
 
 """
+# -*- coding: UTF-8 -*-
 # Exemplo 1
 
 num = int(input('Entre com um numero'))

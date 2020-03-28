@@ -10,6 +10,7 @@ Listas aninhadas - [Nested Lists]
 numeros = [1, 2, 3, 4, 5] em python lista | em C arrays
 
 """
+# -*- coding: UTF-8 -*-
 listas = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]  # Matriz 3x3
 
 print(listas)

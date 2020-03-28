@@ -15,7 +15,7 @@ O ideal é SEMPRE tratar de forma especifica
 """
 
 # Exemplo 1 - Tratando um erro generico
-
+# -*- coding: UTF-8 -*-
 try:
     luan()
 except:

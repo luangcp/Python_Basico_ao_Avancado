@@ -10,7 +10,7 @@ Como o proprio nome diz, sorted() serve pra ordenar.
 
 OBS: O sorted, sempre retorna uma lista com os elementos do iteravel ordenados
 """
-
+# -*- coding: UTF-8 -*-
 # Exemplos
 
 numeros = [6, 2, 3, 1, 12, 55, 32, 11]

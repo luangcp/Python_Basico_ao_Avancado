@@ -14,7 +14,7 @@ tipo, antes de recebermos um valor fnal
 
 OBS: o tipo none em python é sempre considerado como falso
 """
-
+# -*- coding: UTF-8 -*-
 numeros = None
 print(numeros)
 print(type(None))

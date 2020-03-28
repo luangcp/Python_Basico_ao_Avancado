@@ -12,6 +12,7 @@ media = (sum(valores) / len(valores))
 print(media)
 
 """
+# -*- coding: UTF-8 -*-
 # Biblioteca para trabalhar com dados estatisticos
 
 import statistics

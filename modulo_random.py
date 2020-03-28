@@ -10,7 +10,7 @@ Para utilizar os modulos temos que importa-los ou instala-los
 Modulo Random -> Possui varias funções para geração de números pseudo-aleatorios
 
 """
-
+# -*- coding: UTF-8 -*-
 # OBS: Existem duas formas de se utilizar um modulo ou função deste.
 
 # Forma 1 - Importando todo o módulo (não recomendado)

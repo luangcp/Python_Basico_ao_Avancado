@@ -3,6 +3,7 @@ Mapas -> Conhecidos em python como dicionarios
 
 Dicionarios em python são representados por chaves {}
 """
+# -*- coding: UTF-8 -*-
 receita = {'jan': 100, 'fev': 250, 'mar': 300}
 print(receita)
 

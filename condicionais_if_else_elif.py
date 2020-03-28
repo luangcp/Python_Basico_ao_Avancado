@@ -4,6 +4,7 @@ if, else, elif
 
 
 """
+# -*- coding: UTF-8 -*-
 
 idade = int(input("Entre com valor da idade: \n"))
 

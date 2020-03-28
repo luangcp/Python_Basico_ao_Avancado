@@ -8,6 +8,7 @@ print(tupla[1])
 Named Tuple -> São tuplas diferenciadas onde especificamos um nome para a mesma e também parametros.
 
 """
+# -*- coding: UTF-8 -*-
 # Import
 from collections import namedtuple
 

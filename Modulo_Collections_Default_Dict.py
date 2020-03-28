@@ -18,6 +18,7 @@ será atribuido
 OBS: Lambdas são funções sem nome, que podem ou nao receber os parametros de entrada
 e retornar valores.
 """
+# -*- coding: UTF-8 -*-
 # Fazendo import
 from collections import defaultdict
 

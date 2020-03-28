@@ -24,6 +24,8 @@ print(calc(7))
 
 
 """
+# -*- coding: UTF-8 -*-
+
 # Podemos ter expressões lambdas com multiplas entradas
 # função strip tira o espaço que não é necessario em uma string
 # Função title torna a inicial da palavra maiusculo como deve ser

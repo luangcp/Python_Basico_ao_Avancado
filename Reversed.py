@@ -8,7 +8,7 @@ Já a função reversed funciona com qualquer iteravel, sua função é inverter
 
 A função reversed() retorna um iteravel chamado List Reverse iterator
 """
-
+# -*- coding: UTF-8 -*-
 # Exemplos
 lista = [1, 2, 3, 4, 5]
 res = reversed(lista)

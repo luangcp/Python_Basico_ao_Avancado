@@ -14,7 +14,7 @@ raise TipoDoErro('Mensagem de Erro')
 
 OBS: O raise, assim como o return, finaliza a função, ou seja, nada apos ele é executado
 """
-
+# -*- coding: UTF-8 -*-
 # Exemplo:
 
 

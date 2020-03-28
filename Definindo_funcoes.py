@@ -18,6 +18,7 @@ Já utilizamos varias funções desde que iniciamos esse curso:
 
 
 """
+# -*- coding: UTF-8 -*-
 # Exemplo de utilização de função
 
 # cores = ['verde', 'amarelo', 'vermelho', 'preto', 'azul', 'rosa']

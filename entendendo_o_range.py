@@ -31,7 +31,7 @@ range(valor_inicio,valor_de_parada,passo)
 OBS: o valor de parada não inclusive (inicio especificado pelo usuario, e passo especificado pelo usuario )
 
 """
-
+# -*- coding: UTF-8 -*-
 # Forma 1
 
 for num in range(11):

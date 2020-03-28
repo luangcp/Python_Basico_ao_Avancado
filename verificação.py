@@ -1,4 +1,5 @@
 # Função pra fazer a verificação
+# -*- coding: UTF-8 -*-
 
 
 def verifica_info(*args):

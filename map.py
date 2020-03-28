@@ -3,7 +3,7 @@ Map -
 
 Com Map, fazemos mapeamento de valores para a função.
 """
-
+# -*- coding: UTF-8 -*-
 import math
 
 

@@ -26,7 +26,7 @@ OBS: Sobre a palavra reservada return
     2 - Podemos ter, em uma função, diferentes returns;
     3 - Podemos, em uma função, retornar qualquer tipo de dado e até mesmo multiplos valores
 """
-
+# -*- coding: UTF-8 -*-
 # Exemplo função sem retorno
 
 

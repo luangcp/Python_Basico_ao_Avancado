@@ -5,6 +5,7 @@ Podemos dizer que o deque é uma lista de alta perfomace.
 
 
 """
+# -*- coding: UTF-8 -*-
 # Import
 from collections import deque
 

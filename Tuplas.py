@@ -12,6 +12,7 @@ operação em uma tupla gera uma nova tupla
 (4,) -> é tupla
 
 """
+# -*- coding: UTF-8 -*-
 print(type(()))  # Demostrando a classe da tupla
 
 # Cuidado 1: As tuplas são representadas por () mas veja:

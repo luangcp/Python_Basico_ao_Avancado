@@ -34,6 +34,8 @@ funcao(funcao(funcao(a1, a2), a3), a4), ...) an)
 
 
 """
+# -*- coding: UTF-8 -*-
+
 # Funcionamento na pratica
 # Vamos utilizar a função reduce() para multiplicar todos os elementos de uma lista
 

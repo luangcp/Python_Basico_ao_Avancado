@@ -24,7 +24,7 @@ def soma_todos_numeros(num1=1, num2=2, num3=4):
 print(soma_todos_numeros(4, 6, 9))
 # Se passar mais numeros ou menos numeros dá TypeError
 """
-
+# -*- coding: UTF-8 -*-
 # Exemplos: entendendo o *args
 
 

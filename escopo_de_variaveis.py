@@ -22,6 +22,7 @@ int numero =42;
 Exemplo em Java:
 int numero =24;
 """
+# -*- coding: UTF-8 -*-
 
 numero = 42  # Exemplo de variavel global
 print(numero)

@@ -8,7 +8,7 @@ Lista de modulos do python: https://docs.python.org/3/py-modindex.html
 Tem que fazer o import deles pra não sobrecarregar a memoria, todos eles ja estão instalados
 no python mas tem que ser importados
 """
-
+# -*- coding: UTF-8 -*-
 # Utilizando alias (apelidos) para módulos/funções
 import random as rdm  # o as serve pra dar um apelido pra modulos ou funções
 

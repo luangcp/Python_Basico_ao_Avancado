@@ -14,6 +14,7 @@ Exemplos:
 - Aspas duplas -> "Luan"
 assim mesmo pra triplas
 """
+# -*- coding: UTF-8 -*-
 # Entrada de dados
 print('Qual o seu nome?')
 nome = input()

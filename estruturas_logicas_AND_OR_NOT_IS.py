@@ -12,6 +12,7 @@ Para o 'or', um ou outro valor precisa ser True
 Para o 'not', o valor do booleano é invertido, ou seja, se for True vira False, se for False vira True
 Para o 'is', o valor é comparado com um segundo.
 """
+# -*- coding: UTF-8 -*-
 
 ativo = True
 logado = True

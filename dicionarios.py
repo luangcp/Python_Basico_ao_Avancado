@@ -13,6 +13,8 @@ OBS:
 - Tanto chave quanto valor podem ser de qualquer tipo de dado;
 - Podemos misturar tipos de dados;
 """
+# -*- coding: UTF-8 -*-
+
 print(type({}))  # Classe dict de dicionario
 print('\n')
 

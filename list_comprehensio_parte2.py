@@ -4,6 +4,7 @@ List comprehension - Parte 2
 Nós podemos adicionar estruturas condicionais lógicas as nossas list comprehensions
 
 """
+# -*- coding: UTF-8 -*-
 # Exemplo 1
 
 numeros = [1, 2, 3, 4, 5, 6, 7]

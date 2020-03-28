@@ -5,7 +5,7 @@ zip() - Ele cria um iteravel (zip object) que agrega elemento de cada um dos ite
 passados como entrada em pares.
 
 """
-
+# -*- coding: UTF-8 -*-
 # Exemplos:
 
 lista1 = [1, 2, 3]

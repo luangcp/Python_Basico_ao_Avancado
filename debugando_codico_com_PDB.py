@@ -7,6 +7,7 @@ Bug -> Inseto 'Historia da computação kkkkk'
 
 
 """
+# -*- coding: UTF-8 -*-
 # A utilização do print para debugar codigo é uma pratica ruim
 
 

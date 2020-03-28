@@ -12,4 +12,4 @@ num2= 3.5
 type(num2)
 """
 
-
+# -*- coding: UTF-8 -*-

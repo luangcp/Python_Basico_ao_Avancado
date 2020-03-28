@@ -7,6 +7,7 @@ any() -> Retorna True se qualquer elemento do iteravel for verdadeiro. Se o iter
 vazio, retorna false
 
 """
+# -*- coding: UTF-8 -*-
 # Exemplo all()
 
 print(all([0, 1, 2, 3, 4]))  # Todos os números são verdadeiro? False o 0 não é

@@ -6,6 +6,8 @@ Funciona da mesma forma que nas linguagens C ou JAVA
 Utilizamos o break para sair de loops de maneira projetada.
 
 """
+# -*- coding: UTF-8 -*-
+
 # Exemplo 1
 for numero in range(1, 11):
     if numero == 6:

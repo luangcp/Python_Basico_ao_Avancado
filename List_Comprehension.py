@@ -9,7 +9,7 @@ a partir de outro iteravel
 
 [ dado for dado in iteravel] para cada dado nessa lista de dado faça isso
 """
-
+# -*- coding: UTF-8 -*-
 # Exemplo:
 
 numeros = [1, 2, 3, 4, 5]

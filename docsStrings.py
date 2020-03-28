@@ -7,6 +7,7 @@ utilizando a propriedade especial __doc__
 Podemos ainda fazer acesso a documentação com a função help()
 
 """
+# -*- coding: UTF-8 -*-
 
 print(help(print))
 

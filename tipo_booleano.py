@@ -1,4 +1,5 @@
 """
+# -*- coding: UTF-8 -*-
 Tipo Booleano
 
 Algebra booleana, criada por George Boole

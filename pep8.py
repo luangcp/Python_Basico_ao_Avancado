@@ -92,7 +92,7 @@ variavel_longa=3
 
 [7] - Termine sempre uma instrução com uma nova linha
 """
-
+# -*- coding: UTF-8 -*-
 import this
 
 

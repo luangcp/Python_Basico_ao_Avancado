@@ -15,6 +15,7 @@ print(quadrado(2))
 
 
 """
+# -*- coding: UTF-8 -*-
 # Se eu colocar que um parametro ja recebe um valor ele se torna opcional
 
 

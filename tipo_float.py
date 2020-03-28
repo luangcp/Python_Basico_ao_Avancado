@@ -15,7 +15,7 @@ casas decimais
 
 
 """
-
+# -*- coding: UTF-8 -*-
 # Errado do ponto de vista do float mas gera uma tupla
 valor = 1, 44
 print(valor)

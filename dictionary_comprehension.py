@@ -25,6 +25,7 @@ comparando com lista:
 
 * Muda a questão de bibliotecas usar chave:valor
 """
+# -*- coding: UTF-8 -*-
 
 # Exemplos:
 

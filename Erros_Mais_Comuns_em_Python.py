@@ -90,5 +90,6 @@ OBS: Exceptions e erros são sinonimos na programação
 
 OBS: Importante ler e prestar atenção na saída de erro.
 """
+# -*- coding: UTF-8 -*-
 lista =['geek']
 print(lista[0][10])
