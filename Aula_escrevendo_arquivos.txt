@@ -1,0 +1,3 @@
+Esse arquivo foi criado através da aula "escrevendoem arquivos 
+Lembre-se sempre de utilizar : # -*- coding: UTF-8 -*-  
+Além disso, na linha de abertura usas, encoding="utf-8" 

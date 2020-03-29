@@ -21,7 +21,7 @@ pip install nome_do_modulo
 # Importando arquivo pdf com python
 install -> pip install python-pdf
 """
-
+"""
 # Exemplo colorama
 
 from colorama import init, Fore
@@ -31,13 +31,12 @@ init()
 print(Fore.LIGHTBLUE_EX + 'Luan Gabriel Cardoso Pinheiro')
 print(Fore.RED + 'Estudante de Engenharia de Controle e Automação')
 print(Fore.MAGENTA + 'No Instituto Federal de Educação Ciência e Tecnologia')
-
-# Python Geração de PDF
 """
+# Python Geração de PDF
+
 import pydf
 
 pdf = pydf.generate_pdf('<h1> luan </h1>')
 
 with open('test_doc.pdf', 'wb') as f:
     f.write(pdf)
-"""

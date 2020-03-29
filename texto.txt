@@ -1,11 +1,3 @@
-
-
-Olá, meu nome e Luan, sou estudante de Engenharia de Controle e automação e
-tenho paixão por programar!
-Eu tenho um cachorro chamado Hulk, um peixe chamado Francisco e uma Coelha chamada Stela.
-Estou estudando enquanto estou de quarentena por causa do COVID-19
-
-Gosto de jogar futebol
-torço pro atletico mineiro
-^^^~~~
-
+Escrever dados em arquivos é mt facil. 
+Podemos colocar quantas linhas quisermos. 
+Essa é a ultima linha.

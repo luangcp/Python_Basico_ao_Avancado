@@ -9,7 +9,7 @@ cursor() ->
 
 # Relembrando
 
-arquivo = open('texto.txt')
+arquivo = open('texto.txt', encoding='utf-8')
 
 print(arquivo.read())
 
@@ -59,8 +59,7 @@ Passos para se trabalhar com um arquivo:
 """
 
 # 1 - Abrir o arquivo:
-arquivo = open('teste.txt')
-
+arquivo = open('teste.txt', encoding='utf-8')
 # 2 - Trabalhar o arquivo:
 print(arquivo.read())
 
